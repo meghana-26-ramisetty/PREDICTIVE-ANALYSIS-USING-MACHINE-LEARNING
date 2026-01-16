@@ -32,3 +32,6 @@ Visualization was also used to interpret the results. Scatter plots were created
 
 In conclusion, this predictive analysis task was successfully performed using Excel with the guidance of Google resources. The project demonstrated all the required steps: feature selection, model training, and evaluation. It showed how basic machine learning concepts can be implemented in Excel, making it a practical and educational approach for internship-level predictive analysis.
 
+"OUT PUT OF TASK2":
+
+<img width="799" height="447" alt="Image" src="https://github.com/user-attachments/assets/0f281096-1fe0-42c2-98fc-44840c9531a1" />
